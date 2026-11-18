@@ -1,7 +1,7 @@
 # CP-047 FleetPulse: Fleet Fuel Efficiency and Maintenance Analytics System
 
 ## Team
-[Your Name] ([Your USN]), Python track
+[SRIKANTH K] ([1AT25CS182]), Python track
 
 ## How to run
 Needs Python 3 (no extra libraries).
